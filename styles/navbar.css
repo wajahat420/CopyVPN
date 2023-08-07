@@ -1,0 +1,21 @@
+.nav-item .nav-link {
+      padding: 15px !important;
+}
+
+
+@media(max-width: 1400px) {
+      .navbar img {
+            width: 80%;
+      }
+
+      .nav-item .nav-link {
+            font-size: 14px;
+            padding: 10px !important;
+      }
+
+      .navbar li button {
+            font-size: 14px;
+            height: 45px !important;
+            padding: 0 15px !important;
+      }
+}

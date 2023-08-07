@@ -1,0 +1,39 @@
+.countries-left {
+      background: url(../assets/images/countries-bg.png);
+      background-size: cover;
+}
+
+.countries .country{
+      background-color: white;
+      border-radius: 8px;
+}
+
+.flag {
+      position: relative;
+      width: 35px;
+      height: 35px;
+      box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+      overflow: hidden;
+      border-radius: 20px;
+}
+
+.france {
+      background: linear-gradient(to right,
+                  #192f8e 33%,
+                  #fff 33%,
+                  #fff 67%,
+                  #e01414 0)
+}
+
+.fa-star {
+      color: #ff9000;
+}
+
+.fa-signal {
+      color: green;
+}
+
+.countries h1 {
+      /* font-size: 60px !important;
+      font-family: 'Urbancat-Bold'; */
+}

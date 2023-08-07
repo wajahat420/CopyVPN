@@ -1,0 +1,92 @@
+/* @font-face {
+      font-family: 'MundialRegular';
+      src: url(../assets/fonts/MundialRegular.otf),
+} */
+
+body {
+      font-family: 'Mundial-Regular' !important;
+      color: #252E3A;
+}
+
+button {
+      border-radius: 100px !important;
+      height: 60px !important;
+      padding: 0 35px !important;
+      border: none !important;
+}
+
+p {
+      margin: 0;
+}
+
+
+/* headings */
+.heading-1 {
+      font-size: 80px !important;
+      font-family: 'Urbancat-Bold';
+}
+
+.heading-2 {
+      font-size: 60px !important;
+      font-family: 'Urbancat-Bold';
+}
+
+
+/* buttons */
+.btn-blue {
+      background: linear-gradient(180deg, #158B9D 0%, #14C4DF 100%);
+      color: white;
+}
+
+.btn-transparent {
+      border: 1px solid #222E3A66 !important
+}
+
+.btn-250 {
+      width: 250px;
+}
+
+/* colors */
+.blue {
+      color: #158B9D;
+}
+
+.white {
+      color: white;
+}
+
+/* background colors */
+.bg-blue {
+      background-color: #158B9D;
+}
+.bg-white {
+      background-color: white;
+}
+.bg-gray{
+      background-color: gray;
+}
+.bg-light-blue{
+      background-color: #E5F1F3;
+}
+
+/* font sizes */
+.fs-18 {
+      font-size: 18px;
+}
+
+.fs-20 {
+      font-size: 20px;
+}
+
+.fs-22 {
+      font-size: 22px;
+}
+
+/* font-families */
+.font-urbancat-bold {
+      font-family: 'Urbancat-Bold';
+}
+
+.font-urbancat-light {
+      font-family: 'Urbancat-Light';
+}
