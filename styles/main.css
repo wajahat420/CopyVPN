@@ -1,0 +1,23 @@
+.nav-item .nav-link {
+      padding: 12px !important;
+}
+
+.privacy{
+      margin: 200px 0 120px 0;
+}
+
+
+.servers{
+      position: relative;
+}
+.servers .bg{
+      position: absolute;
+      z-index: -1;
+      left: 0;
+      top: -70px;
+      min-height: 1200px;
+}
+
+.servers img{
+      width: 100%;
+}

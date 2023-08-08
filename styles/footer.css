@@ -1,0 +1,51 @@
+.footer{
+      background-color: #151920;
+}
+footer {
+      color: white !important;
+      font-family: 'Urbancat-Light';
+}
+
+footer ul {
+      list-style: disc !important;
+      margin-left: 15px;
+}
+
+footer .nav-item .nav-link {
+      color: rgb(207, 207, 207);
+      padding: 5px !important;
+}
+
+.footer .nav-item li{
+      color: #158B9D !important;
+}
+
+
+footer h5 {
+      font-size: 24px;
+}
+
+footer input{
+      height: 52px;
+      font-size: 14px;
+      width: 200px;
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+      border: none;
+}
+
+footer .fa-arrow-right{
+      background-color: #158B9D;
+      height: 52px;
+      width: 52px;
+      border-top-right-radius: 8px;
+      border-bottom-right-radius: 8px;
+}
+
+.curved-line {
+      width: 40px;
+      height: 25px;
+      border: solid 4px #000;
+      border-color: #158B9D transparent transparent transparent;
+      border-radius: 50%/6px 6px 0 0
+}

@@ -1,0 +1,41 @@
+@media(max-width: 786px) {
+
+      .banner,
+      .countries,
+      .secure,
+      .privacy,
+      .benefits-row {
+            flex-direction: column;
+      }
+
+      .privacy {
+            margin: auto;
+            margin-bottom: 80px;
+      }
+
+      .benefit {
+            margin: auto auto 20px auto !important;
+      }
+
+      .navbar button {
+            margin: 5px 0
+      }
+
+}
+
+@media(max-width: 1400px) {
+      .navbar img {
+            width: 80%;
+      }
+
+      .nav-item .nav-link {
+            font-size: 14px;
+            padding: 10px !important;
+      }
+
+      .navbar li button {
+            font-size: 14px;
+            height: 45px !important;
+            padding: 0 15px !important;
+      }
+}
