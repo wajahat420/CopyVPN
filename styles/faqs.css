@@ -1,0 +1,28 @@
+.faqs {
+      font-family: 'Urbancat-Light';
+}
+
+.faqs .accordion-button {
+      border-radius: 0 !important;
+}
+
+.faqs .accordion-body {
+      background-color: #252E3A !important;
+      color: white;
+}
+
+.faqs .circle {
+      width: 15px;
+      height: 15px;
+      border-radius: 20px;
+      background-color: #158B9D;
+}
+
+.faqs .accordion-header,
+.faqs .accordion-header button {
+      background: #E8F9FC;
+      outline: none;
+      border: none;
+      box-shadow: none !important;
+
+}
