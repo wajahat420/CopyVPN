@@ -1,10 +1,35 @@
+@media(max-width: 1400px) {
+      .navbar img {
+            width: 80%;
+      }
+
+      .nav-item .nav-link {
+            font-size: 14px;
+            padding: 10px !important;
+      }
+
+      .navbar li button {
+            font-size: 14px;
+            height: 45px !important;
+            padding: 0 15px !important;
+      }
+}
+
+@media(max-width: 1300px) {
+      .servers .bg {
+            height: 1000px;
+      }
+}
+
 @media(max-width: 786px) {
 
       .banner,
       .countries,
       .secure,
       .privacy,
-      .benefits-row {
+      .benefits-row,
+      .features,
+      .pricing-section {
             flex-direction: column;
       }
 
@@ -21,21 +46,15 @@
             margin: 5px 0
       }
 
-}
-
-@media(max-width: 1400px) {
-      .navbar img {
-            width: 80%;
+      .servers .bg {
+            height: 730px;
       }
 
-      .nav-item .nav-link {
-            font-size: 14px;
-            padding: 10px !important;
+      .most-popular {
+            margin-top: 100px !important;
       }
 
-      .navbar li button {
-            font-size: 14px;
-            height: 45px !important;
-            padding: 0 15px !important;
+      .pricing .nav-tabs {
+            width: min-content;
       }
 }
