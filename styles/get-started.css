@@ -1,0 +1,25 @@
+.get-started-container {
+      position: relative;
+      margin-top: 270px;
+}
+
+.get-started-bg {
+      background-color: #151920;
+      height: 200px;
+      position: relative;
+      z-index: -1;
+      bottom: -1px;
+}
+
+.get-started {
+      background: url(../assets/images/get-started-bg.png);
+      background-size: contain;
+      width: 100%;
+      position: absolute;
+      top: -150px;
+      background-repeat: repeat;
+      border-radius: 10px;
+      height: 320px;
+      padding: 20px 0;
+      left: 0;
+}

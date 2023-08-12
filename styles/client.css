@@ -1,0 +1,18 @@
+.client {
+      box-shadow: 0px 3.1745223999023438px 26.983440399169922px 0px #BFF7FF;
+      border: 0.79px solid #96F1FF;
+      border-radius: 10px;
+}
+
+.client-details {
+      border-top: 1.15px solid #d8d5d5;
+      margin-top: 70px;
+}
+
+.client.bg-blue .client-details {
+      border-top: 1.15px solid #a7a7a7;
+}
+
+.client-desc {
+      line-height: 45px;
+}

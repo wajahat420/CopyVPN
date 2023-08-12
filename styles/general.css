@@ -37,6 +37,12 @@ p {
       border: 1px solid #222E3A66 !important
 }
 
+.btn-dark-blue {
+      background: #151920;
+      color: white;
+      font-family: 'Urbancat-Light';
+}
+
 .btn-250 {
       width: 250px;
 }
@@ -51,20 +57,28 @@ p {
       color: white;
 }
 
+.light-gray {
+      color: #9E9E9E;
+}
+
 
 /* background colors */
 .bg-blue {
       background-color: #158B9D;
 }
+
 .bg-white {
       background-color: white;
 }
+
 .bg-gray {
       background-color: gray;
 }
+
 .bg-light-blue {
       background-color: #E5F1F3;
 }
+
 .btn-blue-simple {
       background-color: #14C4DF;
       color: white;
@@ -75,15 +89,19 @@ p {
 .fs-12 {
       font-size: 12px;
 }
+
 .fs-18 {
       font-size: 18px;
 }
+
 .fs-20 {
       font-size: 20px;
 }
+
 .fs-22 {
       font-size: 22px;
 }
+
 .fs-24 {
       font-size: 24px;
 }
@@ -93,6 +111,7 @@ p {
 .font-urbancat-bold {
       font-family: 'Urbancat-Bold';
 }
+
 .font-urbancat-light {
       font-family: 'Urbancat-Light';
 }

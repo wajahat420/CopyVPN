@@ -57,4 +57,8 @@
       .pricing .nav-tabs {
             width: min-content;
       }
+
+      .get-started button {
+            width: 50% !important;
+      }
 }
